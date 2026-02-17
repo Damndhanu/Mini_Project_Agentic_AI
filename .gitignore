@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build and test outputs
+dist/
+build/
+*.log
+
+# Playwright
+playwright-report/
+test-results/
+.playwright/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+junit.xml
+test-results.json
+seed.*
+.github/
+Agentic\ Ai/
+specs/
+scripts/
